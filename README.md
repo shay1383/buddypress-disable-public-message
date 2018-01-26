@@ -1,4 +1,5 @@
 BuddyPress Disable Public Message
+
 One line of code to disable 'public message' profile buttons in BuddyPress
 
 If you are familiar with functions.php I suggest to use the following line instead of using the plugin:
